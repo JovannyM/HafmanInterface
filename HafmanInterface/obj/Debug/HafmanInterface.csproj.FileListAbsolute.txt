@@ -1,0 +1,15 @@
+D:\UNIVERSITET\АСД Зубенко\HafmanInterface\HafmanInterface\bin\Debug\HafmanInterface.exe.config
+D:\UNIVERSITET\АСД Зубенко\HafmanInterface\HafmanInterface\bin\Debug\HafmanInterface.exe
+D:\UNIVERSITET\АСД Зубенко\HafmanInterface\HafmanInterface\bin\Debug\HafmanInterface.pdb
+D:\UNIVERSITET\АСД Зубенко\HafmanInterface\HafmanInterface\obj\Debug\HafmanInterface.csprojAssemblyReference.cache
+D:\UNIVERSITET\АСД Зубенко\HafmanInterface\HafmanInterface\obj\Debug\MainWindow.g.cs
+D:\UNIVERSITET\АСД Зубенко\HafmanInterface\HafmanInterface\obj\Debug\App.g.cs
+D:\UNIVERSITET\АСД Зубенко\HafmanInterface\HafmanInterface\obj\Debug\HafmanInterface_MarkupCompile.cache
+D:\UNIVERSITET\АСД Зубенко\HafmanInterface\HafmanInterface\obj\Debug\HafmanInterface_MarkupCompile.lref
+D:\UNIVERSITET\АСД Зубенко\HafmanInterface\HafmanInterface\obj\Debug\MainWindow.baml
+D:\UNIVERSITET\АСД Зубенко\HafmanInterface\HafmanInterface\obj\Debug\HafmanInterface.g.resources
+D:\UNIVERSITET\АСД Зубенко\HafmanInterface\HafmanInterface\obj\Debug\HafmanInterface.Properties.Resources.resources
+D:\UNIVERSITET\АСД Зубенко\HafmanInterface\HafmanInterface\obj\Debug\HafmanInterface.csproj.GenerateResource.cache
+D:\UNIVERSITET\АСД Зубенко\HafmanInterface\HafmanInterface\obj\Debug\HafmanInterface.csproj.CoreCompileInputs.cache
+D:\UNIVERSITET\АСД Зубенко\HafmanInterface\HafmanInterface\obj\Debug\HafmanInterface.exe
+D:\UNIVERSITET\АСД Зубенко\HafmanInterface\HafmanInterface\obj\Debug\HafmanInterface.pdb
