@@ -49,7 +49,7 @@ namespace HafmanInterface.Algorithm
         {
             byte numLastBites = array[0];
             byte delbites = numLastBites==0?(byte)0:(byte)(8 - numLastBites);
-            int CountSymbols = array[1];
+            int CountSymbols = array[1]+1;
             BitArray ba = new BitArray(array);
             int handler = 16;
             

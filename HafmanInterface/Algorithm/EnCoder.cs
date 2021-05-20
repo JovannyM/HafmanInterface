@@ -125,7 +125,7 @@ namespace HafmanInterface.Algorithm
 
         private BitArray TableToBites()
         {
-            BitArray ba = new BitArray(new byte[] {(byte) tableCodes.Count});
+            BitArray ba = new BitArray(new byte[] {(byte) (tableCodes.Count-1)});
 
             foreach (var tc in tableCodes)
             {
